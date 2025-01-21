@@ -1,0 +1,3 @@
+# Ignore appsettings.json to protect sensitive information
+eTickets/eTickets/appsettings.json
+appsettings.json
